@@ -1,0 +1,23 @@
+
+
+Hello first of all we open our app.
+
+To check the latest stock we click on OUR STOCK DESIGNS Button..
+This will took time to, load all the stock designs..
+
+Then we go back...
+
+To find design of our own choice we click on the FIND YOUR DESIGN
+
+
+It will giv us two options..
+ Allow camera screen or the pick fromm gallery
+
+If we click on camera we got the camera viewn and take photo to match design
+ or if we want to take photo from gallery we click on
+GO TO GALLERY
+
+It will show upload button and upload sign
+
+We click on sign to take photo from gallery
+Then click upload and gets desired result
